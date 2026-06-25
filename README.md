@@ -1,0 +1,1 @@
+ from timm.layers import DropPath 不能运行是显卡版本问题  换成from timm.models.layers import DropPath
